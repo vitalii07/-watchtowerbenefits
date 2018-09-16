@@ -1,0 +1,11 @@
+dynamic_attribute_id,title,type,primary_content
+"11","Age Reductions","primary","Specified age(s) at which life insurance reduces; typically expressed as reduce to x% or reduced by x%"
+"15","Accelerated Death Benefit","primary","Pays a portion of the life insurance, while living, if the insured is terminally ill"
+"14","Conversion","primary","Allows life coverage to be continued at individual rates when it would otherwise terminate; typically used to provide coverage after changes in eligibility, retirement, or age reductions"
+"11","Age Reductions","secondary","Specified age(s) at which life insurance reduces; typically expressed as reduce to x% or reduced by x%"
+"11","Accelerated Death Benefit","secondary","Pays a portion of the life insurance, while living, if the insured is terminally ill"
+"11","Conversion","secondary","Allows life coverage to be continued at individual rates when it would otherwise terminate; typically used to provide coverage after changes in eligibility, retirement, or age reductions"
+"13","Portability","primary","Allows life coverage to be continued at group rates when it would otherwise terminate; typically used to provide coverage while in between jobs; duration of portability is typically offer from termination to retirement age,Waiver of Premium (WoP),Allows life coverage to be continued without further premium payments when the insured is totally disabled"
+"12","Waiver of Premium - Eligibility","primary","The maximum allowable age, which a claimant must be disabled by, to qualify for WoP"
+"342","Waiver of Premium - Elimination Period","primary","Period of time an insured must be disabled to qualify for WoP"
+"343","Waiver of Premium - Duration","primary","Maximum age or length of time an insured-s life coverage can be continued through WoP"
